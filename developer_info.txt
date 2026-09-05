@@ -6,14 +6,14 @@ Field         : Remote Sensing & GIS Researcher
 Registration  : BS-SSR01 F22
 Session       : 2022-2026
 Degree        : BS Space Sciences (Remote Sensing & GIS)
-Institute     : Institute of Space Science & Technology, University of the Punjab, Lahore
+Institute     : Institute of Space Science, University of the Punjab, Lahore
 Location      : Lahore, Pakistan
 
 Thesis Title  : AI Driven Flood Susceptibility Analysis in South Punjab
                 Using Remote Sensing and GIS Techniques
-
+Supervisor :Dr Shahid Parvez
 Research Interests
--------------------
+
 - Flood susceptibility mapping (AHP-MCDA, Random Forest)
 - Air quality monitoring using satellite data (Sentinel-5P TROPOMI)
 - Agricultural/crop monitoring using Google Earth Engine
