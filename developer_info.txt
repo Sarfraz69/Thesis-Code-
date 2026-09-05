@@ -1,0 +1,37 @@
+RESEARCHER INFORMATION
+=======================
+
+Name          : Muhammad Sarfraz
+Field         : Remote Sensing & GIS Researcher
+Registration  : BS-SSR01 F22
+Session       : 2022-2026
+Degree        : BS Space Sciences (Remote Sensing & GIS)
+Institute     : Institute of Space Science & Technology, University of the Punjab, Lahore
+Location      : Lahore, Pakistan
+
+Thesis Title  : AI Driven Flood Susceptibility Analysis in South Punjab
+                Using Remote Sensing and GIS Techniques
+
+Research Interests
+-------------------
+- Flood susceptibility mapping (AHP-MCDA, Random Forest)
+- Air quality monitoring using satellite data (Sentinel-5P TROPOMI)
+- Agricultural/crop monitoring using Google Earth Engine
+- Disaster risk mapping and GIS-based hazard analysis
+- Remote sensing applications in climate change and land use change
+
+Contact
+-------
+Phone : +92-309-7338102
+Email : msarfrazakhtar99@gmail.com
+
+Notes
+-----
+The first susceptibility script (flood_susceptibility.py) is written in Python
+using the Google Earth Engine Python API + geemap. All other scripts are
+Google Earth Engine (GEE) code written in JavaScript, meant to be run in the
+GEE Code Editor (https://code.earthengine.google.com/).
+
+Before reuse: update the Area of Interest (AOI), asset paths
+(projects/ee-msarfrazakhtar9944/assets/...), and target years to match your
+own study area and requirements.
